@@ -1,5 +1,5 @@
 <script setup>
 </script>
 <template>
-    <div class="Home">Home</div>
+    <div class="Tasks">Tasks</div>
 </template>
